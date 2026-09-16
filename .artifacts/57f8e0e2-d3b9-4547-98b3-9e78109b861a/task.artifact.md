@@ -1,0 +1,3 @@
+- [x] Update Room version in `libs.versions.toml`
+- [x] Update `app/build.gradle.kts` to use version catalog references
+- [x] Clean and rebuild the project to verify the fix

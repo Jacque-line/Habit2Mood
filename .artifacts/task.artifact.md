@@ -1,0 +1,4 @@
+- `[x]` Remove redundant `core-ktx` dependency from `app/build.gradle.kts`
+- `[x]` Cleanup redundant versions and libraries in `gradle/libs.versions.toml`
+- `[x]` Sync Gradle
+- `[x]` Verify build with `./gradlew :app:assembleDebug`
